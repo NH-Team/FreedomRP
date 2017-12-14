@@ -1,0 +1,8 @@
+"freedomrp"
+{
+	"base"		"base"
+	"title"		"FreedomRP"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+	"workshopid"	""
+}
